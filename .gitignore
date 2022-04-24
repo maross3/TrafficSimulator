@@ -2,8 +2,11 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+/[Aa]ssets/[Ss]cripts/*.meta
+/[Aa]ssets/[Ss]cripts.meta
 
-/[Aa]ssets/[_]Dev/*.meta
+/[Aa]ssets/[Ss]cripts/[Ii]nterfaces/*.meta
+/[Aa]ssets/[Ss]cripts/[Ii]nterfaces.meta
 
 /[Ll]ibrary/
 /[Tt]emp/
@@ -74,8 +77,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-/_Dev.meta
 
 .idea/.idea.TrafficSimulator/.idea/indexLayout.xml
 .idea/.idea.TrafficSimulator/.idea/workspace.xml
-Assets/_Dev.meta
