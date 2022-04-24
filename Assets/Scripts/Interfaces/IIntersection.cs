@@ -1,8 +1,11 @@
-using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 
-public interface IIntersection
+namespace maross3
 {
-    
+    // might implement interface, might extend base class. Finishing functionality first
+    public interface IIntersection
+    {
+        public abstract Sequence CurrentSequence { set; get; }
+        public abstract Dictionary<int, ITrafficSignal> TrafficSignalsByCorridor { set; get; }
+    }
 }

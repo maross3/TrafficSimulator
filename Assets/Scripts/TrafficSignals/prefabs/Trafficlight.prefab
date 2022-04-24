@@ -219,7 +219,7 @@ GameObject:
   - component: {fileID: 6938787925598322510}
   - component: {fileID: 7847110836539637726}
   m_Layer: 0
-  m_Name: Yellow
+  m_Name: Amber
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
