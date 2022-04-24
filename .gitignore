@@ -77,3 +77,4 @@ crashlytics-build.properties
 /_Dev.meta
 Assets/_Dev.meta
 .idea/.idea.TrafficSimulator/.idea/indexLayout.xml
+Assets/_Dev/*
