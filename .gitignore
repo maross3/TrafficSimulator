@@ -5,6 +5,7 @@
 /[Aa]ssets/[Ss]cripts/*.meta
 /[Aa]ssets/[Ss]cripts/**/*.meta
 /[Aa]ssets/[Ss]cripts.meta
+/[Aa]ssets/**/*.meta
 
 /[Aa]ssets/[Ss]cripts/[Ii]nterfaces/*.meta
 /[Aa]ssets/[Ss]cripts/[Ii]nterfaces.meta
